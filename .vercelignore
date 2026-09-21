@@ -1,0 +1,36 @@
+# Files excluded from Vercel deployment
+# https://vercel.com/docs/projects/project-configuration#vercelignore
+
+# Dev logs
+*.log
+dev.log
+server.log
+
+# Examples
+/examples
+
+# Tests
+/tests
+
+# Scripts (build helpers, not needed in production)
+/scripts
+
+# Upload folder (source images not needed in prod)
+/upload
+
+# Download folder (output only)
+/download
+
+# IDE
+.vscode
+.idea
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Worklog
+worklog.md
+
+# Z-scripts (sandbox dev tooling)
+/.zscripts

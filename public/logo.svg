@@ -1,0 +1,14 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background rounded square -->
+  <rect width="512" height="512" rx="112" fill="#3D4FCC"/>
+  <!-- Waveform icon (white) — same as the navbar logo -->
+  <g stroke="white" stroke-width="28" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M 96 256 L 128 256"/>
+    <path d="M 144 256 L 168 200"/>
+    <path d="M 184 200 L 224 312"/>
+    <path d="M 240 312 L 280 144"/>
+    <path d="M 296 144 L 336 296"/>
+    <path d="M 352 296 L 376 232"/>
+    <path d="M 392 232 L 416 256"/>
+  </g>
+</svg>
